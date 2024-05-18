@@ -1,0 +1,15 @@
+#party {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 94vw;
+    height: 100vh;
+    background-color: #4f4c48;
+    padding: 0;
+}
+
+#partycenter {
+    width: 70vw;
+    height: 80vh;
+    background-color: #cba158;
+}

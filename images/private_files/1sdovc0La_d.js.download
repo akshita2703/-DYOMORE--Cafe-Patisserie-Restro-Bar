@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("PolarisProfileNestedContentRoot.entrypoint",["JSResourceForInteraction","buildPolarisProfileRoute.entrypoint"],(function(a,b,c,d,e,f,g){"use strict";a=c("buildPolarisProfileRoute.entrypoint")(c("JSResourceForInteraction")("PolarisProfileNestedContentRoot.react").__setRef("PolarisProfileNestedContentRoot.entrypoint"),function(){return{}});g["default"]=a}),98);
